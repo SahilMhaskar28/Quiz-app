@@ -1,4 +1,4 @@
 # Quiz-app
 Simple Quiz App made by using Html Css and JavaScript
 <br>
-YOu can see preview on 
+You can see preview on  https://sahilmhaskar28.github.io/Quiz-app/
